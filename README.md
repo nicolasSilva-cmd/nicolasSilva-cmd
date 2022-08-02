@@ -1,10 +1,12 @@
-### Hello there! 👋, i'm Nicolas Silva and... 
+<h1 align="center"><strong>Hello there! 👋 </strong>, i'm Nicolas Silva and... </h1>
 
+<ul>
+ <li> <strong class="text">🌱 I’m currently looking for an opportunity</strong> in an enterprise to work with</li>
+ <li> <strong class="text">📫 I’m currently learning</strong> HTML, CSS, SQL, NODE and GIT</li>
+ <li> <strong class="text">🔭 I’m looking to collaborate</strong> on anything!</li>  
+ <li> <strong class="text">💬 Ask me about </strong>HTML and CSS, (and maybe something besides that 🤭)</li>
+ <li> <strong class="text">👯How to reach me:</strong> @nicolau_xoraboy</li>
+</ul>
 
-- 🔭 I’m currently looking for an opportunity in an enterprise to work with
-- 🌱 I’m currently learning HTML, CSS, SQL, NODE and GIT
-- 👯 I’m looking to collaborate on anything!
-- 💬 Ask me about HTML and CSS, (and maybe something besides that 🤭)
-- 📫 How to reach me: @nicolau_xoraboy
+<p align="center">Be welcomed to my profile! </p>
 
-Be welcomed to my profile!
