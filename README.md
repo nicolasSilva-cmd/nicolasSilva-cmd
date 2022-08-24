@@ -5,7 +5,7 @@
  <li> <strong class="text">📫 I’m currently learning</strong> HTML, CSS, SQL, NODE and GIT</li>
  <li> <strong class="text">🔭 I’m looking to collaborate</strong> on anything!</li>  
  <li> <strong class="text">💬 Ask me about </strong>HTML and CSS, (and maybe something besides that 🤭)</li>
- <li> <strong class="text">👯How to reach me:</strong> <a target="__blank" href="https://twitter.com/Nicolau_xoraboy">@nicolau_xoraboy</a></li>
+ <li> <strong class="text">👯How to reach me:</strong> <a target=__blank href="https://twitter.com/Nicolau_xoraboy">@nicolau_xoraboy</a></li>
 </ul>
 
 <p align="center">Be welcomed to my profile! </p>
