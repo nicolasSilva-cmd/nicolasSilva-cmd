@@ -41,25 +41,41 @@ import java.util.Scanner;
 //Reinicia jogo - Vale 0,25
 }
 //Verifica condição de vitória e derrota
-		private static void verificaResultado() {
-			if(escolhaJogador == 1 && escolhaComputador == 2) {
-				++placarComputador;
-			} else if(escolhaJogador == 2 && escolhaComputador == 3) {
-				++placarComputador;
-			} else if()
-				
-
 //Vale 0,25
 //Usar o if para verificar e comparar as escolhas
 //Quem ganha recebe pontos
 //A pontuação deve ser atribuidas nas variáveis
 //placarJogador E placarComputador
+		private static void verificaResultado() {
+			//Condições onde o computador ganha
+			if(escolhaJogador == 1 && escolhaComputador == 2) {
+				++placarComputador;
+			} else if(escolhaJogador == 2 && escolhaComputador == 3) {
+				++placarComputador;
+			} else if(escolharJogador == 3 && escolhaComputador == 1){
+				++placarComputador
+			}
+			//Condições onde o jogador ganha
+			else if(escolhaJogador == 1 && escolhaComputador == 3){
+				++placarJogador
+			} else if(escolhaJogador == 2 && escolhaComputador == 1){
+				++placarJogador
+			} else if(escolhaJogador == 3 && escolhaComputador == 2){
+				++placarJogador
+			}
+			//Condições de empate (escolha do jogador == escolha do computador)
+			else{
+				continue
+			}
+				
+
+		
 }
 //Exibe o resultado do placar
 //placarJogador E placarComputador
-		private static void exibePlacar() {
 //Vale 0,25
 //Seu código aqui
+		private static void exibePlacar() {
 			System.out.println("::: PLACAR");
 			System.out.println("Jogador: " + placarJogador);
 			System.out.println("Computador " + placarComputador);
