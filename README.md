@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Hello there! 👋 </strong>, i'm Nicolas Silva and... </h1>
+<h1 align="center"><strong>Olá! / Hello there!</strong>, i'm Nicolas Silva and... </h1>
 
 <ul>
  <li> <strong class="text">🌱 I’m currently working at F1RST Tecnologia as a Trainee</li>
