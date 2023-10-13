@@ -2,8 +2,9 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1 align="center"><strong>Hello there!</strong><br> I'm Nicolas Silva and...</h1> <br>
 </div>
-<h1 align="center"><strong>Hello there!</strong><br> I'm Nicolas Silva and...</h1> <br>
+
 
 <ul>
  <li> <strong class="text">🌱 I’m currently working at F1RST Tecnologia as a Trainee</li>
