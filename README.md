@@ -12,5 +12,5 @@
 
 <p align="center">Be welcomed to my profile! </p>
 
-<h1> <align = "center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasSilva-cmd)](https://github.com/nicolasSilva-cmd/github-readme-stats) </h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasSilva-cmd)](https://github.com/nicolasSilva-cmd/github-readme-stats)
 
