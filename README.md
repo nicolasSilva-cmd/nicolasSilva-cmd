@@ -10,7 +10,7 @@
  <li> <strong class="text">👯How to reach me:</strong> <label for="email">nicolas_derp22@outlook.com</label></li>
 </ul>
 
+
+![Nicolas Silva Stats](https://github-readme-stats.vercel.app/api?username=nicolasSilva-cmd&show_icons=true&theme=radical)
+
 <p align="center">Be welcomed to my profile! </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasSilva-cmd)](https://github.com/nicolasSilva-cmd/github-readme-stats)
-
