@@ -16,7 +16,7 @@
 
 <br>
 
-<div align="center"> ![Nicolas Silva Stats](https://github-readme-stats.vercel.app/api?username=nicolasSilva-cmd&show_icons=true&theme=radical) </div>
+![Meus status](https://github-readme-stats.vercel.app/api?username=nicolasSilva-cmd&show_icons=true&theme=radical)
 
 <br>
 <p align="center">Be welcome to my profile! </p>
