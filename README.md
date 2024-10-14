@@ -16,7 +16,7 @@
 
 <br>
 
-![Nicolas Silva Stats](https://github-readme-stats.vercel.app/api?username=nicolasSilva-cmd&show_icons=true&theme=radical)
+<div align="center"> ![Nicolas Silva Stats](https://github-readme-stats.vercel.app/api?username=nicolasSilva-cmd&show_icons=true&theme=radical) </div>
 
 <br>
-<p align="center">Be welcomed to my profile! </p>
+<p align="center">Be welcome to my profile! </p>
